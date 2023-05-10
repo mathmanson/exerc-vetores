@@ -1,0 +1,2 @@
+# exerc-vetores
+vetores exercicios
